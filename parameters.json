@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_SocialGoalCMAENG_name": {
+            "value": "test13aprname"
+        },
+        "serverfarms_SocialGoalCMAENGPlan_name": {
+            "value": "test13aprplan"
+        },
+        "config_web_name": {
+            "value": null
+        },
+        "hostNameBindings_socialgoalcmaeng.azurewebsites.net_name": {
+            "value": null
+        }
+    }
+}
